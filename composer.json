@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ecourty/text-chunker": "^1.1",
+        "league/commonmark": "^2.8",
+        "ezimuel/phpvector": "^0.3.0"
+    }
+}
